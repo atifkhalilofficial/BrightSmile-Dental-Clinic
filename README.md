@@ -8,7 +8,7 @@ The website includes information about dental services, doctors, patient testimo
 
 > Add your deployed website URL here after deployment.
 
-**Live Website:** `Coming Soon`
+**Live Website:** https://atifkhalilofficial.github.io/BrightSmile-Dental-Clinic/
 
 ---
 
